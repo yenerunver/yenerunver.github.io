@@ -16,7 +16,7 @@
     "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf"
   },
   "index.css": {
-    "file": "assets/index-27a11784.css",
+    "file": "assets/index-9753a1ca.css",
     "src": "index.css"
   },
   "_webfontloader-2a4655c2.js": {
@@ -24,14 +24,14 @@
     "isDynamicEntry": true
   },
   "index.html": {
-    "file": "assets/index-3eee8106.js",
+    "file": "assets/index-a2e74118.js",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
       "_webfontloader-2a4655c2.js"
     ],
     "css": [
-      "assets/index-27a11784.css"
+      "assets/index-9753a1ca.css"
     ],
     "assets": [
       "assets/materialdesignicons-webfont-9bdfaf27.eot",
